@@ -11,7 +11,7 @@ Make sure you have the following installed:
 *)Installation-
 
 1)Clone the repository
-  git clone https://github.com/Deepika-np-678/feedback-system.git
+  git clone https://github.com/Deepika-np-678/feedback.git
 2)Navigate into the project directory:
   cd feedback-system
 3)Install dependencies:
