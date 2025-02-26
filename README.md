@@ -7,7 +7,7 @@ Prerequisites-
 Make sure you have the following installed:
     Node.js (https://nodejs.org/)
     MongoDB (https://www.mongodb.com/)
-
+    or MongoDB atlas[which i have used here]
 *)Installation-
 
 1)Clone the repository
